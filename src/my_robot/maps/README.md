@@ -1,0 +1,1 @@
+Newly generated maps will be stored here.
